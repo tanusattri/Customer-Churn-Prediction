@@ -1,5 +1,15 @@
 # Customer-Churn-Prediction
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [References](#references)
+
 ### Project Overview
 Developed an end-to-end machine learning pipeline to predict customer attrition using Python and Scikit-learn. The project involved extensive exploratory data analysis, feature engineering and the training of classification models like Random Forest and XGBoost to identify high-risk customers. By pinpointing key churn drivers—such as contract types and pricing thresholds—the model provides actionable insights to optimize retention strategies and safeguard company revenue.
 
