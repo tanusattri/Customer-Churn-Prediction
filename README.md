@@ -62,7 +62,7 @@ plt.show()
 
 ### References
 - Dataset Source: Kaggle - Customer-Churn-Prediction
-  - [https://www.kaggle.com/datasets/shivamb/customer-churn]
+  - [https://www.kaggle.com/datasets/WA_Fn-UseC_-Telco-Customer-Churn.csv]
 - Tool Documentation: Pandas, Seaborn, Matplotlib
    - [https://pandas.pydata.org/docs/]
    - [https://seaborn.pydata.org/]
