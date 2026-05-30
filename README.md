@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction & Behavioral Analysis
+# Customer Churn Prediction
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://customer-churn-prediction-y3diefn7ephwesmffmpn4p.streamlit.app/)
 
